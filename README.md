@@ -15,3 +15,5 @@ sudo apt-get install apache2 mysql-server php libapache2-mod-php php-mcrypt php-
 
 Once this is done, copy the repository to /var/www/html/ and browse the web server.
 The database will create by itself and fill with test information.
+
+__Make sure to change the database password on index.php to the one you set when you installed mysql__
